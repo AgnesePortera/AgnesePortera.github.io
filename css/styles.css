@@ -77,20 +77,20 @@ main > .tagline {
 .icons-language i {
 	padding: 15px;
 	animation-name: entrance;
-  	animation-duration: 3s;
+  	animation-duration: 2s;
 }
 
 .icons-informatic i {
 	padding: 15px;
 	line-height: 4.5rem;
 	animation-name: entrance;
-  	animation-duration: 4s;
+  	animation-duration: 3s;
 }
 
 .icons-opsystem i {
 	padding: 15px;
 	animation-name: entrance;
-  	animation-duration: 5s;
+  	animation-duration: 4s;
 }
 
 .devto {
