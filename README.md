@@ -1,12 +1,10 @@
 # My Github Page
 
-This is the implementation of my github page that you can find |[here](https://agneseportera.github.io) .
+This is the implementation of my github page that you can find [here](https://agneseportera.github.io) .
 
 ## How
 
 GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
-
-If you already have a GitHub profile (obviously)
 
 * Create a new repo with the name `{username}.github.io`
 * Clone/Fork this repo and copy the files to your newly created repo
@@ -22,6 +20,11 @@ If you want to make your new landing page available under a domain like `{userna
 ## Reference
 
 Here's the original **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com) from which this repository starts.
+
+### New features
+* New set of icon with the package **fmfizz**.
+* Bootstrap tooltip for every icon.
+* Javascript entrance animation.
 
 ## License
 
