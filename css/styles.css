@@ -70,19 +70,27 @@ main > .tagline {
 .icons-social i {
 	padding: 10px;
 	margin-bottom: 2.5rem;
+ 	animation-name: entrance;
+  	animation-duration: 1s;
 }
 
 .icons-language i {
 	padding: 15px;
+	animation-name: entrance;
+  	animation-duration: 3s;
 }
 
 .icons-informatic i {
 	padding: 15px;
 	line-height: 4.5rem;
+	animation-name: entrance;
+  	animation-duration: 4s;
 }
 
 .icons-opsystem i {
 	padding: 15px;
+	animation-name: entrance;
+  	animation-duration: 5s;
 }
 
 .devto {
@@ -94,4 +102,14 @@ main > .tagline {
 	margin-left: 0.675rem;;
 	width: 2.65rem;
 	height: 2.65rem;
+}
+
+/* Animation */
+
+@keyframes entrance {
+  0%   {opacity: 0.1;}
+  25%  {opacity: 0.15;}
+  50%  {opacity: 0.2;}
+  75%  {opacity: 0.25;}
+  100% {opacity: 1;}
 }
