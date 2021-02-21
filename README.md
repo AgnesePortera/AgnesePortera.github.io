@@ -1,6 +1,6 @@
 # Dev Landing Page
 
-Minimal landing page for developers.
+Landing page for developers.
 
 Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
 
@@ -31,7 +31,7 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
+Here's the original **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
 
 ### Custom Domain
 
