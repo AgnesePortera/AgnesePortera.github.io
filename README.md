@@ -1,4 +1,5 @@
 # My Github Page
+![GitHub](https://img.shields.io/github/license/AgnesePortera/AgnesePortera.github.io?style=plastic)
 
 This is the implementation of my github page that you can find [here](https://agneseportera.github.io) .
 
@@ -28,4 +29,4 @@ Here's the original **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](http
 
 ## License
 
-MIT
+This project is distributed under the *MIT* license.
