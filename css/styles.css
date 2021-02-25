@@ -70,8 +70,7 @@ main > .tagline {
 .icons-social i {
 	padding: 10px;
 	margin-bottom: 2.5rem;
- 	animation-name: entrance;
-  	animation-duration: 1s;
+ 	animation: rotation 3s;
 }
 
 .icons-language i {
@@ -112,4 +111,13 @@ main > .tagline {
   50%  {opacity: 0.2;}
   75%  {opacity: 0.25;}
   100% {opacity: 1;}
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
